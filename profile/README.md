@@ -1,4 +1,4 @@
-# Elkiot Platform README
+# Elkiot Platform
 
 Welcome to the Elkiot Platform! This README provides an introduction to our IoT ecosystem, highlighting its capabilities, performance, and key features.
 
