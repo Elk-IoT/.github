@@ -1,4 +1,4 @@
-<h1 align="center">Elkiot - Open-Source IoT and Data Platform</h1>
+<h1 align="center">Elkiot - Open-Source IoT Data Platform</h1>
 
 <p align="center">Welcome to the Elkiot open-source project repository! This repository contains information about our open-source IoT (Internet of Things) data platform.</p>
 
