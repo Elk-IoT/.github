@@ -1,6 +1,6 @@
 <h1 align="center">Elkiot - Open-Source IoT and Data Platform</h1>
 
-<p align="center">Welcome to the Elkiot open-source project repository! This repository contains information about our open-source IoT (Internet of Things) and data platform.</p>
+<p align="center">Welcome to the Elkiot open-source project repository! This repository contains information about our open-source IoT (Internet of Things) data platform.</p>
 
 ## Table of Contents
 - [About Elkiot](#about-elkiot)
@@ -13,7 +13,7 @@
 
 ## About Elkiot
 
-Elkiot is an open-source IoT and data platform designed to empower businesses and individuals with the tools and technology to harness the power of IoT and leverage data for actionable insights. It's built on a foundation of collaboration and innovation, aiming to provide a flexible and extensible platform for the community.
+Elkiot is an open-source IoT data platform designed to empower businesses and individuals with the tools and technology to harness the power of IoT and leverage data for actionable insights. It's built on a foundation of collaboration and innovation, aiming to provide a flexible and extensible platform for the community.
 
 Learn more about Elkiot on our [website](https://www.elkiot.com).
 
